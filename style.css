@@ -1,0 +1,37 @@
+body{
+ text-align:center;
+ background: linear-gradient( #E1BEE7 0%, #90CAF9 100%);
+ background-repeat:no-repeat;
+}
+img{
+ border-radius:50%;
+  width:200px;
+}
+#bio{
+ padding:20px;
+  font-size:18;
+  text-align:center;
+}
+.line {
+    background-color: #000000;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+h1{
+  text-shadow: 2px 2px #F8BBDO
+    font-size:20;
+}
+.menu {
+list-style:none;
+font-family:cursive;
+float:right;
+    top:10px;
+    right:30px;
+    cursor:pointer;
+    color:black;
+    
+}
+#myname{
+    font-family: 'Roboto', sans-serif;
+}
